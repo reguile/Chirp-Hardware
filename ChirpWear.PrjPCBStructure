@@ -1,0 +1,5 @@
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_Audio Interface|SchDesignator=U_Audio Interface|FileName=Audio Interface.SchDoc|SymbolType=Normal|RawFileName=Audio Interface.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_Bluetooth Module|SchDesignator=U_Bluetooth Module|FileName=Bluetooth Module.SchDoc|SymbolType=Normal|RawFileName=Bluetooth Module.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=Power.SchDoc|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_Processor|SchDesignator=U_Processor|FileName=Processor.SchDoc|SymbolType=Normal|RawFileName=Processor.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=TopLevelDocument|FileName=Main.SchDoc
